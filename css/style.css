@@ -256,3 +256,7 @@ nav a.button-collapse {
 footer.page-footer {
     margin-top: 0px !important;
 }
+
+.hero-pic {
+    background-image: url(https://websiteblob1.blob.core.windows.net/posts/121-code-it-7);
+}
