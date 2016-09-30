@@ -260,3 +260,8 @@ footer.page-footer {
 .hero-pic {
     background-image: url(https://websiteblob1.blob.core.windows.net/posts/121-code-it-7);
 }
+
+.p-height {
+    font-weight: 100;margin-bottom: 4%; line-height: 1.5rem;; text-align: justify; text-justify: inter-word;
+    
+}
