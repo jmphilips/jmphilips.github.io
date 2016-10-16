@@ -30,6 +30,10 @@ body {
     animation-direction: alternate;
 }
 
+.emphasized {
+    font-weight: 400
+}
+
 
 
 @keyframes lsd {
